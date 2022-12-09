@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="conio2.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9860" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="car.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="26852" topLine="303" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="20" />
+			<Collapse line="98" />
+			<Collapse line="161" />
+			<Collapse line="195" />
+			<Collapse line="284" />
+			<Collapse line="358" />
+			<Collapse line="399" />
+			<Collapse line="439" />
+			<Collapse line="511" />
+			<Collapse line="583" />
+			<Collapse line="695" />
+			<Collapse line="719" />
+			<Collapse line="783" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="303" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="car.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1180" topLine="36" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
